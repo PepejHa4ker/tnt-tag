@@ -1,0 +1,7 @@
+{
+  "address": "localhost",
+  "database": "minecraft",
+  "port": 3306,
+  "username": "root",
+  "password": ""
+}
